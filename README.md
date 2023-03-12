@@ -3,6 +3,15 @@
 
 <br />
 
+<h3 align="center"> MERN & REACT </h3>
+
+- MERN [Clone: full stack twitter clone](https://mtwitter-clone.netlify.app)
+  - [Github](https://github.com/Adebisi1234/twitter-project)
+- MERN [Youtube clone **WIP**](https://testtube-y.netlify.app)
+- React & styled-component [vibes "mp3 download" **WIP**](https://vibes-mp3.netlify.app)
+- React [meme generator](https://tob-meme-generator.netlify.app)
+
+
 <h3 align="center"> html, css, js</h3>
 
 - 🔭 Html & css [Nigerian recipe](https://adebisi1234.github.io/odin-recipe)
@@ -16,9 +25,3 @@
 - 🔭 Html, Css & Js [crypto landing page](https://crapo.netlify.app)
 
 
-<h3 align="center"> MERN </h3>
-- MERN [full stack twitter clone](https://mtwitter-clone.netlify.app)
--  React & styled-component [vibes "mp3 download"](https://vibes-mp3.netlify.app)
--  MERN & styled-component [Youtube clone](https://testtube-y.netlify.app)
--  React & styled-component [meme generator](https://tob-meme-generator.netlify.app)
--  React & styled-component [meme generator"destop only"](https://tob-meme-generator.netlify.app)
